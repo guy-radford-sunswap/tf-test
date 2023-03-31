@@ -1,3 +1,6 @@
+#https://stackoverflow.com/questions/62103837/load-a-specific-tfvars-variables-file-in-my-terraform-cloud-workspace
+
+
 terraform {
   required_providers {
     azurerm = {
