@@ -23,3 +23,4 @@ resource "azurerm_resource_group" "tfstate" {
   name     = "rg-${ var.name }-${ local.environment }"
   location = "uksouth"
 }
+
